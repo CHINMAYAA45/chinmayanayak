@@ -2,11 +2,11 @@
 <h1 align="center">Hi 👋, I'm chinmaya Nayak</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img> align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chinmayanayak&label=Profile%20views&color=0e75b6&style=flat" alt="chinmayanayak" /> </p>
 
--🤓 All of projects are avaailable at
+-🤓 All of projects are avaailable at [https://www.linkedin.com/in/chinmaya-nayak-62381b270?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app]
 
 - 🔭 I’m currently studying computer science 
 
